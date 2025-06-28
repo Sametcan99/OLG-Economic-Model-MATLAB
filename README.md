@@ -35,7 +35,6 @@ Clone the repository:
 
 git clone https://github.com/Sametcan99/OLG-Economic-Model-MATLAB.git
 
-(Remember to replace YourGitHubUsername with your actual GitHub username)
 
 Open MATLAB: Launch the MATLAB application.
 
